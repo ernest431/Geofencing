@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lokasipasien-d02da",
+  "private_key_id": "cfca3e7800b637520d3f6cee421d2821cfdc36d1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDHEe/ctB97dtGE\nhWYJUnbuTiSlZK7kfaNpvErj3YX8eWc//5HGqiCciF61NGYyVWtCe7KICECbPUoM\nvXWwmxsxsDIzPtucfSsKt0O6pjtVmHWvNZkOFqgyn4e/EmZsSkwuH0P9537OmFpM\nGhGn38HeDbDkd6O9AqODpKMhJ9S1iBq3pMzKayIsFC7cToGMqCnUf0+cjIS2Ifop\nPSCdkFUyxvoTVL6brhxTggJUxDQbiqf5oH6cyhdwB2VkwsinvGTfV0uhcsJyDZb9\nUX7ryZDwareh57Tj9jPDxOpmdB+AtkTwkp1jxyGF9WGoN4kd/xjjiYqyiTosGHNr\nDBuwumaLAgMBAAECggEAGaNhQYr/PP72B/vIQu4YfCObS6PWdH4L5EvIV2WJ4pTe\nK9tl8nCpx482p17KxLPEnyjgOu3ZKEUx+scR1796NqGLLZdsYFCskPI+alULckAy\n8/BSuIJJgk+Sg5TClTLSceQ79QDyD3iGtKNs37KNPOSFgj84Wtjypzs2eUgweHqH\nDdkE0hUJUDRLgbquiHR/Zeqc6cbrGOtpXMg2vvrFVi5fPkTi9CsjHAprDH/zkfrv\nv0LOrrQ7RntNqZMwIlaiYpwww/lewGYK5pQVv4YfXJt+qUwN/i2NkMyUk8VsCjFx\nDr8wBLRETAotSIbz76q4xjRLAAw/mCtFTMb9uRYBCQKBgQD4zBdx9J8hfW8P4Llm\n7Ac/gzAGSSEdXTeiXbZZSp5mzQ89pJgjiVCaNRVqtxRdh4u98jGycEDg6/z9XMon\n3K7J4yg+CDWQaej8yG442UblHif/bfFmwrHgSsyOOXyQUE0fT7P58n+LNt9XwpWU\nVEZFSeu7BBZd7jjgEtCTGV2GswKBgQDM1U2M964GUPe34BUmLdQphyFAL0lY0v5C\n3IoNqyD+ZdkOSfFMGySdstPsd2z1YVgy3EWJDa2IoK9WGDuLeG0bj8B9MVMSWBGT\nj4eAIr2qmeWRbrRnkdmttWnQIa8uwGM5nDEBrlM/vOliFx+8UzuzvZ22zPAagvgV\nRtg7t7fMyQKBgDm3/2hse85lLzLby6dY8oWFhcqvhIMvcQy1+OvWJ9FpmTOPz8vO\nu2hLEGDlgFACdiTm3yiqaiLEHLkaobuFsvcbP+bEOMj8CRU72nZN0eitilHzy6Ev\nYdzK/ZGxPHiuaHXvI63E2FoPrNjLR7BVrMe+UnXciOPZtFAnjUPTCqOJAoGAUD8E\nicSCxfC0i7HbN0DfDIHnEek0l/rZJ8KUxzQS0fd+qK1pPgKoPqvPgKVs51kCn7JR\n/5Z/NLaW2mjV8xbzz8dqhuFrBRXBlQi28gkqOwrduDMhtC2clQQsdyCrK+qtNOWv\nAVSVQrQ0znv2r+X/zrPrdLEnI4vJuzQtBIA+HpkCgYEApJlYZ180dHTV1QcBNefs\nacD6/e/aAPP3oYRADOzXgTFixJdT370FVFtPZP0xZigp9cyCkQ1nHFDOuvIeLLcQ\nZr0MlLS+Lo2Dau6WPnLFas+oqtk/hv6DXHIwb0tqEGYiXD5SbvDtJcSjP2bp3pmX\nqgw8QnpNRafKCPtswMp/Syo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ikzq6@lokasipasien-d02da.iam.gserviceaccount.com",
+  "client_id": "112861004989535557946",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ikzq6%40lokasipasien-d02da.iam.gserviceaccount.com"
+}
